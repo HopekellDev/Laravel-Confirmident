@@ -1,0 +1,36 @@
+{
+    "name": "hopekelldev/confirmident",
+    "description": "Laravel Confirmident API Integration - A Laravel 10+ package for Confirmident.com.ng",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ezenwa Hopekell",
+            "email": "hopekelltech@gmail.com",
+            "homepage": "https://hopekelltech.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HopekellDev\\Confirmident\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/support": "^10.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HopekellDev\\Confirmident\\ConfirmidentServiceProvider"
+            ],
+            "aliases": {
+                "Confirmident": "HopekellDev\\Confirmident\\Facades\\Confirmident"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
