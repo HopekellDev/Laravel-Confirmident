@@ -4,6 +4,11 @@ namespace HopekellDev\Confirmident\Helpers;
 
 use Illuminate\Support\Facades\Http;
 
+/**
+ * Confirmident's Identity Verification laravel package
+ * @author Hope Ezenwa- Hopekell <hopekelltech@gmail.com>
+ * @version 1
+ **/
 class Nin
 {
     protected string $apiKey;

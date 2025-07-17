@@ -5,6 +5,11 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use HopekellDev\Confirmident\Facades\Confirmident;
 
+/**
+ * Confirmident's Identity Verification laravel package
+ * @author Hope Ezenwa- Hopekell <hopekelltech@gmail.com>
+ * @version 1
+ **/
 class ConfirmidentController extends Controller
 {
     /**

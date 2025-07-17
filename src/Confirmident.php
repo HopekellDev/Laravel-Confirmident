@@ -7,6 +7,12 @@ use Illuminate\Support\Facades\Http;
 use HopekellDev\Confirmident\Helpers\Nin;
 use HopekellDev\Confirmident\Helpers\Bvn;
 
+/**
+ * Confirmident's Identity Verification laravel package
+ * @author Hope Ezenwa- Hopekell <hopekelltech@gmail.com>
+ * @version 1
+ **/
+
 class Confirmident
 {
     protected $apiKey;
