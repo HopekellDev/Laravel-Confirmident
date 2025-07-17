@@ -2,6 +2,8 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/hopekelldev/confirmident.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/confirmident)
 [![Total Downloads](https://img.shields.io/packagist/dt/hopekelldev/confirmident.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/confirmident)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/HopekellDev/confirmident/main.svg?style=flat-square)](https://scrutinizer-ci.com/g/HopekellDev/confirmident/?branch=main)
+[![PHP Version](https://img.shields.io/packagist/php-v/hopekelldev/confirmident.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/confirmident)
 
 **Laravel Confirmident** is a Laravel 10+ package for seamless integration with the [Confirmident](https://confirmident.com.ng) identity verification API.  
 It provides a simple Facade-based interface for NIN and identity verification.
@@ -72,7 +74,7 @@ See the [LICENSE](LICENSE) file for details.
 
 **Ezenwa Hopekell**  
 - GitHub: [HopekellDev](https://github.com/HopekellDev)  
-- Email: your-email@example.com
+- Email: hopekelltech@gmail.com
 
 ## 🤝 Contributions & Issues
 
