@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/hopekelldev/confirmident.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/confirmident)
 [![Total Downloads](https://img.shields.io/packagist/dt/hopekelldev/confirmident.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/confirmident)
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/HopekellDev/confirmident/main.svg?style=flat-square)](https://scrutinizer-ci.com/g/HopekellDev/confirmident/?branch=main)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/HopekellDev/laravel-confirmident/main.svg?style=flat-square)](https://scrutinizer-ci.com/g/HopekellDev/Laravel-Confirmident/?branch=main)
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.1-777BB4.svg?style=flat-square)](https://www.php.net/)
 [![Laravel Version](https://img.shields.io/badge/Laravel-%3E%3D10.0-FF2D20.svg?style=flat-square)](https://laravel.com/)
 [![GuzzleHTTP Version](https://img.shields.io/badge/GuzzleHTTP-%3E%3D7.0-3F7E95.svg?style=flat-square)](https://github.com/guzzle/guzzle)
