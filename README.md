@@ -63,9 +63,18 @@ if ($response && $response['status'] === 'success') {
 
 ## 📋 Available Methods
 
-| Method            | Description                                    |
-|-------------------|------------------------------------------------|
-| `verifyNIN($nin)` | Verify National Identification Number (NIN) |
+| Method                               | Description                                           |
+|--------------------------------------|-------------------------------------------------------|
+| `nin()->searchByNIN($nin)`           | Search NIN details by NIN number                     |
+| `nin()->searchByPhoneNumber($phone)` | Search NIN details by registered phone number        |
+| `nin()->searchByDemographicInfo($data)` | Search NIN by demographic information (firstname, lastname, dob, gender) |
+| `bvn()->verification($bvn)`          | Verify BVN and retrieve identity details             |
+
+## 📖 Controller Examples
+
+For detailed usage examples and expected API responses, see:  
+👉 [tests/ControllerExample.md](tests/ControllerExample.md)
+
 
 ## 📃 License
 
